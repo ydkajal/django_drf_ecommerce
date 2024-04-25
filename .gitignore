@@ -1,0 +1,6 @@
+evenv/
+**__pycache__/
+db.sqlite3
+.env
+.coverage
+.vscode
